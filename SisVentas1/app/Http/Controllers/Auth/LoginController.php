@@ -1,8 +1,8 @@
 <?php
 
-namespace sisVentas\Http\Controllers\Auth;
+namespace sisVentas1\Http\Controllers\Auth;
 
-use sisVentas\Http\Controllers\Controller;
+use sisVentas1\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\AuthenticatesUsers;
 
 class LoginController extends Controller

@@ -1,6 +1,6 @@
 <?php
 
-namespace sisVentas\Providers;
+namespace sisVentas1\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
