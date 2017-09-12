@@ -1,6 +1,6 @@
 <?php
 
-namespace sisVentas1\Http\Middleware;
+namespace sisVentas\Http\Middleware;
 
 use Illuminate\Cookie\Middleware\EncryptCookies as BaseEncrypter;
 

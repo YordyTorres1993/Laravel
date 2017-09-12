@@ -19,7 +19,7 @@
             "database"
         ],
         "psr-4": {
-            "sisVentas1\\": "app/"
+            "sisVentas\\": "app/"
         }
     },
     "autoload-dev": {

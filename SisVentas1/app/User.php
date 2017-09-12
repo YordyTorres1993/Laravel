@@ -1,6 +1,6 @@
 <?php
 
-namespace sisVentas1;
+namespace sisVentas;
 
 use Illuminate\Notifications\Notifiable;
 use Illuminate\Foundation\Auth\User as Authenticatable;

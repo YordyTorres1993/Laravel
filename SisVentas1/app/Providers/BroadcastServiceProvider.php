@@ -1,6 +1,6 @@
 <?php
 
-namespace sisVentas1\Providers;
+namespace sisVentas\Providers;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Facades\Broadcast;

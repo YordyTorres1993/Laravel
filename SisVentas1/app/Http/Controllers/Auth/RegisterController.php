@@ -1,9 +1,9 @@
 <?php
 
-namespace sisVentas1\Http\Controllers\Auth;
+namespace sisVentas\Http\Controllers\Auth;
 
-use sisVentas1\User;
-use sisVentas1\Http\Controllers\Controller;
+use sisVentas\User;
+use sisVentas\Http\Controllers\Controller;
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Foundation\Auth\RegistersUsers;
 
@@ -58,7 +58,7 @@ class RegisterController extends Controller
      * Create a new user instance after a valid registration.
      *
      * @param  array  $data
-     * @return \sisVentas1\User
+     * @return \sisVentas\User
      */
     protected function create(array $data)
     {

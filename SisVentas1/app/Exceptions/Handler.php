@@ -1,6 +1,6 @@
 <?php
 
-namespace sisVentas1\Exceptions;
+namespace sisVentas\Exceptions;
 
 use Exception;
 use Illuminate\Auth\AuthenticationException;

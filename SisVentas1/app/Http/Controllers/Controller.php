@@ -1,6 +1,6 @@
 <?php
 
-namespace sisVentas1\Http\Controllers;
+namespace sisVentas\Http\Controllers;
 
 use Illuminate\Foundation\Bus\DispatchesJobs;
 use Illuminate\Routing\Controller as BaseController;

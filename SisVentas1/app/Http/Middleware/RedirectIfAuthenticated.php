@@ -1,6 +1,6 @@
 <?php
 
-namespace sisVentas1\Http\Middleware;
+namespace sisVentas\Http\Middleware;
 
 use Closure;
 use Illuminate\Support\Facades\Auth;
